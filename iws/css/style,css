@@ -1,0 +1,10 @@
+/*
+selector {
+property, value:
+}
+*/
+img {
+height:2000px;
+width:200px;
+borderradius:200px
+}
