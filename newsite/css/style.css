@@ -57,3 +57,7 @@ img:hover {
 #green {background:green;}
 #blue {background: green;}
 {
+
+ p, img {
+  display: none;
+ }
