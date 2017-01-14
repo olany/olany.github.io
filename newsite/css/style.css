@@ -47,3 +47,13 @@ img {
 img:hover { 
   border-radius:0px;
 }
+
+#green{
+ background: green;
+ color: white;
+ font-size: 20px;
+ font-style: italic;
+}
+#green {background:green;}
+#blue {background: green;}
+{
